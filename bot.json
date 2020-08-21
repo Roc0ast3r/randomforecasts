@@ -1,5 +1,5 @@
 {
-	"origin": ["#normal#","#special#"],
+	"origin": ["#normal#","#normal#","#normal#","#normal#","#normal#","#normal#","#normal#","#normal#","#normal#","#special#"],
 	"normal": ["#place-name#\n#number#°#f-c#\n#weather#\nHumidity: #humidity#%\nWind: #digit# mph\n#alerts#"],
 	"special": ["Special Edition!\n\n#special-place-name#\n#number#°#f-c#\n#weather#\nHumidity: #humidity#%\nWind: #digit# mph\n#alerts#\n"],
 		"special-place-name": ["#special-country#"],
