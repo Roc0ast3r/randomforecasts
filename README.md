@@ -9,3 +9,15 @@ If you want more in-depth explanation on everything, please go to the [wiki](htt
 
 # How does this work?
 It's going to be too much to explain it on here, so I advise you to view the wiki for it, which I'm stil working on, as there is a lot to cover about on the wiki. I do have some plans to remake the bot, so keep on the lookout for that!
+
+# Social Medias
+Follow the boi on all of these social medias.
+
+* [Twitter](https://twitter.com/roc0ast3r)
+* [Instagram](https://instagram.com/roc0ast3r)
+* [YouTube](https://youtube.com/roc0ast3r)
+
+Of course, follow my bots:
+
+* [randomforecasts](https://twitter.com/randomforecasts)
+* [DateGenerator](https://twitter.com/DateGenerator)
